@@ -1,7 +1,3 @@
-Given the feedback and the need to clarify the roles and interdependencies within the scientific research ecosystem, especially distinguishing between funding institutions and grant programs, I'll create a revised markdown file. This file will be named `ACTOR_PROCESS_NICHES.md` in your GitHub repository.
-
----
-
 # Actor Process Niches in Scientific Research
 
 This document provides an overview of the various actor types within the scientific research ecosystem, focusing on their roles as providers and consumers of different subprocesses. It highlights the unique yet interdependent niches each actor occupies, emphasizing the fractal and recursive nature of relationships between funding institutions, grant programs, and other entities within the ecosystem.
@@ -28,7 +24,3 @@ Grant Programs play a critical role in directing these investments toward specif
 Application Institutions, as "net beneficiaries," operationalize the research findings, applying them to real-world problems and needs. This application can, in turn, stimulate economic growth, inform policy, and contribute to the quality of life, potentially generating returns that flow back to the original Funding Institutions or the broader society, thereby completing the cycle.
 
 In summary, each actor in the scientific research ecosystem occupies a unique niche, contributing to the cycle of knowledge generation and application. The interplay between these actors ensures that scientific research remains a dynamic and evolving field, capable of addressing both immediate challenges and long-term societal needs.
-
----
-
-This revised markdown file provides a clearer delineation of the roles, subprocesses, and institutional niches of various actors within the scientific research ecosystem, incorporating the feedback to better distinguish between funding institutions and grant programs, and explaining the cyclical nature of funding and application in scientific research.
