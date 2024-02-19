@@ -12,7 +12,7 @@ The Scientific Research Ontology provides a structured framework to understand a
 
 - **[Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/RELATIONSHIPS.md)**: Explorations of the dynamic interactions between actors and subprocesses, illustrating the collaborative and interdependent nature of scientific research.
 
-- **[Actor Process Niches](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTOR_NICHES.md)**: A discussion on the specific niches occupied by each actor within the research ecosystem, emphasizing their unique yet interconnected roles.
+- **[Actor Process Niches](actor_niches.md)**: A discussion on the specific niches occupied by each actor within the research ecosystem, emphasizing their unique yet interconnected roles.
 
 - **[Detailed Actor Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTOR_BY_SUBPROCESSES.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
 
