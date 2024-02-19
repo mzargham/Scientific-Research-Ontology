@@ -1,35 +1,33 @@
-# Ontology of Scientific Research
+# Scientific Research Ontology
 
-## Abstract
+## Overview
 
-This repository hosts an ontology designed to conceptualize and structure the complex ecosystem of scientific research. It provides a comprehensive framework that outlines the roles of various actors and subprocesses involved in the generation, dissemination, and application of scientific knowledge. The ontology aims to facilitate a deeper understanding of the interrelations and dependencies within the scientific research community, offering insights into how research activities are conducted, supported, and utilized.
+The Scientific Research Ontology provides a structured framework to understand and analyze the complex ecosystem of scientific research. This ontology includes detailed descriptions of the actors involved, the subprocesses that constitute research activities, and the relationships that tie these elements together. It serves as a comprehensive guide for exploring the intricate dynamics of scientific research, facilitating a deeper understanding for researchers, policymakers, and anyone interested in the science of science.
 
-The ontology is divided into three main components:
+## Contents
 
-1. **Actor Types**: Defines the key participants in the scientific research ecosystem, including their roles and contributions. Actors range from researchers and teams to institutions that fund, oversee, apply, and support research endeavors.
+- **[Actor Types](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTORS.md)**: Detailed descriptions of the entities participating in the scientific research ecosystem, including their roles, contributions, and examples.
 
-2. **Subprocesses**: Describes the series of actions, methodologies, and procedures that constitute the research process. This includes everything from the initial planning and funding stages to the publication, documentation, and operationalization of research findings.
+- **[Subprocesses](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/SUBPROCESSES.md)**: An overview of the processes underpinning scientific research, detailing each subprocess's purpose and function.
 
-3. **Relationships**: Outlines the dynamic interactions between actors and subprocesses. This section highlights how various entities collaborate, support, and influence each other within the research ecosystem.
+- **[Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/RELATIONSHIPS.md)**: Explorations of the dynamic interactions between actors and subprocesses, illustrating the collaborative and interdependent nature of scientific research.
 
-## Repository Organization
+- **[Actor Process Niches](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTOR_NICHES.md)**: A discussion on the specific niches occupied by each actor within the research ecosystem, emphasizing their unique yet interconnected roles.
 
-The content of this ontology is organized into separate markdown files within the repository, as follows:
-
-- **Actor Types**: A detailed description of each actor involved in the scientific research ecosystem. [Link to Actor Types Markdown File]
-
-- **Subprocesses**: An overview of the processes that underpin scientific research, detailing each subprocess's role and function. [Link to Subprocesses Markdown File]
-
-- **Relationships**: Explores the intricate web of relationships that connect actors and subprocesses, illustrating the collaborative and interdependent nature of scientific research. [Link to Relationships Markdown File]
+- **[Detailed Actor Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTOR_BY_SUBPROCESSES.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
 
 ## Purpose
 
-The development of this ontology serves multiple purposes. Primarily, it acts as a structured representation of the scientific research domain, aiding in the analysis, study, and enhancement of research practices. Additionally, it aims to provide a common language for stakeholders across the research landscape, promoting clearer communication and understanding among researchers, institutions, and policymakers.
+This ontology aims to provide a common framework to facilitate discussions, analyses, and policy-making in scientific research. By delineating the roles of various actors and the processes they engage in, we seek to foster a clearer understanding of how scientific knowledge is generated, disseminated, and applied. This, in turn, can help in identifying areas for improvement, innovation, and collaboration within the research community.
 
 ## Contributing
 
-We welcome contributions from the scientific research community and other interested stakeholders. Whether you have suggestions for refining the ontology, additional insights into actor roles or subprocesses, or new relationships to consider, please feel free to open an issue. Forking is also encouraged but please cite this repo.
+We welcome contributions from the scientific research community and other interested stakeholders. Whether you have suggestions for refining the ontology, additional insights into actor roles or subprocesses, or new relationships to consider, please feel free to open an issue or submit a pull request.
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/LICENSE).
+
+---
+
+Remember to replace the placeholders in the links with the actual paths to your markdown files within the GitHub repository. This template assumes a standard GitHub path structure and includes a link to a license file, which you should also ensure exists in your repository.
