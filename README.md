@@ -6,6 +6,8 @@ The Scientific Research Ontology provides a structured framework to understand a
 
 ## Contents
 
+- **[Motivation](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/why.md)**: Exploration of the motivation and method for decomposition the lanscape of scientific research as an institutional ecology.
+
 - **[Actor Types](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/actors.md)**: Detailed descriptions of the entities participating in the scientific research ecosystem, including their roles, contributions, and examples.
 
 - **[Subprocesses](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/subprocesses.md)**: An overview of the processes underpinning scientific research, detailing each subprocess's purpose and function.
