@@ -14,7 +14,7 @@ The Scientific Research Ontology provides a structured framework to understand a
 
 - **[Actor Process Niches](actor_niches.md)**: A discussion on the specific niches occupied by each actor within the research ecosystem, emphasizing their unique yet interconnected roles.
 
-- **[Detailed Actor Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/actors_by_subprocesses.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
+- **[Detailed Actor Relationships to subprocesses](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/actors_by_subprocess.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
 
 ## Purpose
 
