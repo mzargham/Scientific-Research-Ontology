@@ -6,15 +6,15 @@ The Scientific Research Ontology provides a structured framework to understand a
 
 ## Contents
 
-- **[Actor Types](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTORS.md)**: Detailed descriptions of the entities participating in the scientific research ecosystem, including their roles, contributions, and examples.
+- **[Actor Types](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/actors.md)**: Detailed descriptions of the entities participating in the scientific research ecosystem, including their roles, contributions, and examples.
 
-- **[Subprocesses](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/SUBPROCESSES.md)**: An overview of the processes underpinning scientific research, detailing each subprocess's purpose and function.
+- **[Subprocesses](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/subprocesses.md)**: An overview of the processes underpinning scientific research, detailing each subprocess's purpose and function.
 
-- **[Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/RELATIONSHIPS.md)**: Explorations of the dynamic interactions between actors and subprocesses, illustrating the collaborative and interdependent nature of scientific research.
+- **[Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/relationships.md)**: Explorations of the dynamic interactions between actors and subprocesses, illustrating the collaborative and interdependent nature of scientific research.
 
 - **[Actor Process Niches](actor_niches.md)**: A discussion on the specific niches occupied by each actor within the research ecosystem, emphasizing their unique yet interconnected roles.
 
-- **[Detailed Actor Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/ACTOR_BY_SUBPROCESSES.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
+- **[Detailed Actor Relationships](https://github.com/mzargham/Scientific-Research-Ontology/blob/main/actors_by_subprocesses.md)**: A comprehensive look at the nuanced relationships between actors and subprocesses, highlighting the fractal nature of funding and application in scientific research.
 
 ## Purpose
 
